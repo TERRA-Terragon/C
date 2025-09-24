@@ -1,1 +1,2 @@
-My first game on C++ in Terminal .
+C++ projects :
+tamagochi - My first game on C++ in Terminal .
