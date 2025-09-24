@@ -1,2 +1,2 @@
 C++ projects :<br>\
-tamagochi - My first game on C++ in Terminal .
+1.tamagochi - My first game on C++ in Terminal .
