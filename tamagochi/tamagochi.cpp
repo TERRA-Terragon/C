@@ -278,7 +278,6 @@ public:
 				if (sellect != 0)sellect -= 1;
 			}
 		///replic
-
 		if (k == 0) {
 			string line;
 			int chislo;
@@ -533,11 +532,6 @@ tamogochi::tamogochi() : ovner("---"), name("---"), years(000) {
 tamogochi::~tamogochi(void) {
 	cout << "Module delet :D";
 }
-
-//getch();
-
-
-
 int main() {
 	srand(time(NULL));
 	setlocale(LC_ALL, "Russian");
